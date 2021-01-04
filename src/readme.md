@@ -1,1 +1,1 @@
-This folder contains the assembly code for the project that I made (one was a required FSM, and the other was the FSM with some extra features in it).
+This folder contains the assembly code for the project that I made (one was a required FSM which specified the number of pulses to generate(if run in normal mode), and the other was the FSM with some extra features in it(time for a pulse and delay between pulses)).
