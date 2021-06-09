@@ -1,7 +1,7 @@
 # Programmable-Pulse-Generator-
 This is the implementation of the programmable pulse generator that I created using the ATMEGA324A microcontroller.      
 There are two modes in this program:  
-1) The first one is normal mode where you would input in a numeber from 1-255 and it would generate that many number of pulses at an output pin.  
+1) The first one is normal mode where you would input in a number from 1-255 and it would generate that many number of pulses at an output pin.  
 2) The second one is continuous mode, where you would input in 0 for the number of pulses you want to generate, and it would generate pulses continously, until you press the CLR button or RESET the system.  
   
 There are also two implementations of this programmable pulse generator:  
